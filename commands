@@ -2,3 +2,6 @@ command options arguments
 
 ls -l Documents
 list long files in Documents Direcotry
+
+
+ls -r list in reverse order
