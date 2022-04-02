@@ -9,3 +9,6 @@ ls -r list in reverse order
 ls -l -r
 ls -rl
 ls -lr
+
+
+pwd print working directory
