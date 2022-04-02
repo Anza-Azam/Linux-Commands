@@ -5,3 +5,7 @@ list long files in Documents Direcotry
 
 
 ls -r list in reverse order
+----same results for the following commands will appear
+ls -l -r
+ls -rl
+ls -lr
