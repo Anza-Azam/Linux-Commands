@@ -12,3 +12,6 @@ ls -lr
 
 
 pwd print working directory
+
+cd Documents change directory
+cd / root direcotry
